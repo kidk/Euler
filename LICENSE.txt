@@ -1,5 +1,3 @@
-http://projecteuler.net/
-
 Copyright (c) 2012, Samuel Vandamme (samuel@sava.be)
 All rights reserved.
 
